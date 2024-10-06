@@ -1,2 +1,2 @@
-# LegalexCRM
-CRM application for the Legalex site
+# LegalexCMS
+CMS application for the Legalex site
